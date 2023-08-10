@@ -1,4 +1,4 @@
-WebContent/IMG/개인_프로젝트.png
+![Alt text](WebContent/IMG/개인_프로젝트.png)
 
 이 프로젝트는 부트스트랩으로 만든 JSP 프로젝트입니다. <br>
 최소한의 간단한 로직만을 이용해서 개발했습니다.
