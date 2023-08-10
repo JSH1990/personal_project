@@ -2,5 +2,5 @@
 최소한의 간단한 로직만을 이용해서 개발했습니다.
 </br>
 </br>
-![React](https://img.shields.io/badge/eclipseide-444444?style=for-the-badge&logo=eclipseide&logoColor=#525C86)
+![eclipseide](https://img.shields.io/badge/eclipseide-444444?style=for-the-badge&logo=eclipseide&logoColor=#525C86)
 ![React](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql)
