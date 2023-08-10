@@ -3,4 +3,6 @@
 </br>
 </br>
 ![eclipseide](https://img.shields.io/badge/eclipseide-444444?style=for-the-badge&logo=eclipseide&logoColor=#525C86)
-![React](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql)
+![mysql](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql)
+![bootstrap](https://img.shields.io/badge/mysql-444444?style=for-the-badge&logo=bootstrap)
+![javascript](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=javascript)
